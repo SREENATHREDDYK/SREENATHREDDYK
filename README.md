@@ -1,6 +1,6 @@
 # Hi, I'm Sreenath Reddy 👋
 
-### Node.js Backend Developer | MERN Stack Developer
+### Backend Developer | Node.js Backend Developer | MERN Stack Developer
 
 I'm a Backend Developer with 1.5+ years of experience building and maintaining REST APIs and web applications using Node.js, Express.js, and MongoDB.
 
